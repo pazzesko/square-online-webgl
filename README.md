@@ -1,5 +1,5 @@
 # Square Online
-Demo unity game using [`UnityWebRequest`](https://docs.unity3d.com/ScriptReference/Networking.UnityWebRequest.html) to send and receive position updates of the squares.
+Demo unity online game using [`UnityWebRequest`](https://docs.unity3d.com/ScriptReference/Networking.UnityWebRequest.html) to send and receive position updates of the squares.
 
 The client is the unity game and the server is built using spring boot + redis to expose rest services to create and update the game status. 
 
